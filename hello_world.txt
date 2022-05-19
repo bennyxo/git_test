@@ -1,3 +1,5 @@
 Hello World!
 
 Testing Git basics
+
+Testing VSCode commit message
